@@ -1,0 +1,12 @@
+{
+  "inputs": [],
+  "servers": {
+    "DbgEngMcp": {
+      "type": "stdio",
+      "command": "C:\\Users\\eric\\src\\TtdMcp\\bin\\Debug\\net9.0\\DbgEngMcp.exe",
+      "args": [
+        "C:\\Users\\eric\\Tools\\WinDbgX\\amd64\\"
+      ]
+    }
+  }
+}
